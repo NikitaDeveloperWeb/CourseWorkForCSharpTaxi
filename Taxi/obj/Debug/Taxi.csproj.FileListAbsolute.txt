@@ -1,0 +1,17 @@
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\bin\Debug\DataBase.mdb
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\bin\Debug\Taxi.exe.config
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\bin\Debug\Taxi.exe
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\bin\Debug\Taxi.pdb
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.csprojAssemblyReference.cache
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.Form1.resources
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.Properties.Resources.resources
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.csproj.GenerateResource.cache
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.csproj.CoreCompileInputs.cache
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.exe
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.pdb
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.OrderAddForm.resources
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.OrderEditForm.resources
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.WordkerAddForm.resources
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.WorkerEditForm.resources
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.DeleteOrderForm.resources
+D:\Project\Курсовые\Моя\project\Taxi\Taxi\obj\Debug\Taxi.DeleteWorkerForm.resources
